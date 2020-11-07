@@ -725,7 +725,7 @@ img.home__kanku {
     width: 100%;
     height: 100%;
     z-index: -10;
-    background: url(../img/alt/bgmobile1.jpg) no-repeat center center;
+    background: url(./img/alt/bgmobile1.jpg) no-repeat center center;
     background-size: cover;
   }
 
