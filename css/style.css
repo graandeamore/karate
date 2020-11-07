@@ -742,7 +742,10 @@ img.home__kanku {
   .firstsight__content-info a:nth-child(2) {
     display: inline-block;
   }
-
+button.form__button{
+	width: 250px;
+	margin: 0 auto;
+}
   .menu ul {
     padding: 0;
     font-size: 8px;
